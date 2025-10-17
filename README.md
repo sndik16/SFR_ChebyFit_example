@@ -49,6 +49,10 @@ The code demonstrates:
 
 
 
+## Usage
+Open `SFR_Chebyshev_fit.ipynb` in Jupyter to reproduce the fits and figures.
+
+
 ## Acknowledgments
 Guidance on coding workflow and documentation provided by OpenAI’s ChatGPT (GPT-5).
 
